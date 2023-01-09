@@ -1,0 +1,6 @@
+C:\Users\tadlockd7379\Desktop\Work\HelloWorld\ConsoleUI\bin\Release\ConsoleUI.exe.config
+C:\Users\tadlockd7379\Desktop\Work\HelloWorld\ConsoleUI\bin\Release\ConsoleUI.exe
+C:\Users\tadlockd7379\Desktop\Work\HelloWorld\ConsoleUI\bin\Release\ConsoleUI.pdb
+C:\Users\tadlockd7379\Desktop\Work\HelloWorld\ConsoleUI\obj\Release\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\Desktop\Work\HelloWorld\ConsoleUI\obj\Release\ConsoleUI.exe
+C:\Users\tadlockd7379\Desktop\Work\HelloWorld\ConsoleUI\obj\Release\ConsoleUI.pdb

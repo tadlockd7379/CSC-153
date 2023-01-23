@@ -1,0 +1,10 @@
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\tadlockd7379\Desktop\work\NameFormatter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

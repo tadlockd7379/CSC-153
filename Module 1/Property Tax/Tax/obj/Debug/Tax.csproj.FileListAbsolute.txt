@@ -1,0 +1,10 @@
+C:\Users\tadlockd7379\source\repos\Tax\Tax\bin\Debug\Tax.exe.config
+C:\Users\tadlockd7379\source\repos\Tax\Tax\bin\Debug\Tax.exe
+C:\Users\tadlockd7379\source\repos\Tax\Tax\bin\Debug\Tax.pdb
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.Form1.resources
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.Properties.Resources.resources
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.exe
+C:\Users\tadlockd7379\source\repos\Tax\Tax\obj\Debug\Tax.pdb

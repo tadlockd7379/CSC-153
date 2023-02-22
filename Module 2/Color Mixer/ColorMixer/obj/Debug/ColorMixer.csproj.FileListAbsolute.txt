@@ -1,0 +1,10 @@
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Form1.resources
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+C:\Users\Drewm\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb

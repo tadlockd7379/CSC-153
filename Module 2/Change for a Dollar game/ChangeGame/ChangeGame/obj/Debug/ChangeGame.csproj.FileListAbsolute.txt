@@ -1,0 +1,10 @@
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.Form1.resources
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.Properties.Resources.resources
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\bin\Debug\ChangeGame.exe.config
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\bin\Debug\ChangeGame.exe
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\bin\Debug\ChangeGame.pdb
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.exe
+C:\Users\tadlockd7379\source\repos\ChangeGame\ChangeGame\obj\Debug\ChangeGame.pdb

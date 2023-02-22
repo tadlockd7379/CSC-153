@@ -1,0 +1,10 @@
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Form1.resources
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+C:\Users\tadlockd7379\Desktop\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb

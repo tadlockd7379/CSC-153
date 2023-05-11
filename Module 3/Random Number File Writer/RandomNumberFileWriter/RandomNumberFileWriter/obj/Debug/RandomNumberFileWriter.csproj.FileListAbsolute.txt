@@ -1,0 +1,10 @@
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.exe.config
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.exe
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.pdb
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.Form1.resources
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.Properties.Resources.resources
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.exe
+C:\Users\Drewm\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.pdb

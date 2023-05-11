@@ -1,0 +1,6 @@
+C:\Users\tadlockd7379\source\repos\EmployeeClass\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\tadlockd7379\source\repos\EmployeeClass\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\tadlockd7379\source\repos\EmployeeClass\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\source\repos\EmployeeClass\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\source\repos\EmployeeClass\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\tadlockd7379\source\repos\EmployeeClass\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

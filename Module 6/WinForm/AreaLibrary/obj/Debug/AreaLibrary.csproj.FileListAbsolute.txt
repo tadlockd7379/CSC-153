@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\WinForm\AreaLibrary\bin\Debug\AreaLibrary.dll
+C:\Users\Administrator\Downloads\WinForm\AreaLibrary\bin\Debug\AreaLibrary.pdb
+C:\Users\Administrator\Downloads\WinForm\AreaLibrary\obj\Debug\AreaLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\WinForm\AreaLibrary\obj\Debug\AreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\WinForm\AreaLibrary\obj\Debug\AreaLibrary.dll
+C:\Users\Administrator\Downloads\WinForm\AreaLibrary\obj\Debug\AreaLibrary.pdb

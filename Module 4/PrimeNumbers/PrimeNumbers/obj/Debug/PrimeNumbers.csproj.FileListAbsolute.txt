@@ -1,0 +1,10 @@
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Form1.resources
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Properties.Resources.resources
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\tadlockd7379\Desktop\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\bin\Debug\FallingDistance.exe.config
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\bin\Debug\FallingDistance.exe
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\bin\Debug\FallingDistance.pdb
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.Form1.resources
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.Properties.Resources.resources
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.exe
+C:\Users\Drewm\source\repos\FallingDistance\FallingDistance\obj\Debug\FallingDistance.pdb

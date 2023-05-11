@@ -1,0 +1,10 @@
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.exe.config
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.exe
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.pdb
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.Form1.resources
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.Properties.Resources.resources
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.exe
+C:\Users\Drewm\source\repos\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.pdb

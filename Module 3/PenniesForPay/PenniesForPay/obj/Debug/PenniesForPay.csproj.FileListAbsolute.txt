@@ -1,0 +1,10 @@
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Form1.resources
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.Properties.Resources.resources
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe.config
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.exe
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\bin\Debug\PenniesForPay.pdb
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.exe
+C:\Users\Drewm\source\repos\PenniesForPay\PenniesForPay\obj\Debug\PenniesForPay.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\Administrator\Downloads\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\Administrator\Downloads\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\Administrator\Downloads\WinForm\WinForm\bin\Debug\AreaLibrary.dll
+C:\Users\Administrator\Downloads\WinForm\WinForm\bin\Debug\AreaLibrary.pdb
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\Administrator\Downloads\WinForm\WinForm\obj\Debug\WinForm.pdb

@@ -1,0 +1,15 @@
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\Resources\1.png
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\Resources\2.png
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\Resources\3.png
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\Resources\4.png
+C:\Users\tadlockd7379\Desktop\SlotMachine\SlotMachine\bin\Debug\Resources\5.png

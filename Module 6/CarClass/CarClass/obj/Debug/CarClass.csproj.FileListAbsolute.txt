@@ -1,0 +1,13 @@
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.csproj.AssemblyReference.cache
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.Form1.resources
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.Properties.Resources.resources
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.csproj.GenerateResource.cache
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\bin\Debug\CarClass.exe.config
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\bin\Debug\CarClass.exe
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\bin\Debug\CarClass.pdb
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.exe
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.pdb
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\bin\Debug\CarLibrary.dll
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\bin\Debug\CarLibrary.pdb
+C:\Users\tadlockd7379\source\repos\CarClass\CarClass\obj\Debug\CarClass.csproj.CopyComplete
